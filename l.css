@@ -1,0 +1,31 @@
+body{
+    background-color: brown;
+    background-size: cover;
+}
+.menu{
+    color:black;
+    width: 10px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.g{
+    height: 200px;
+    width: 100px;
+    background-color: azure;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    background: black;
+    display: flex;
+    background-color: transparent;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+    width: 70%;
+
+}
